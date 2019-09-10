@@ -2,4 +2,5 @@
 
 ### Refactored by Ian Schoonover
 
-[slides](http://webdev.slides.com/nax3t/yelpcamp-refactor-ui#/)
+[UI refactor slides](http://webdev.slides.com/nax3t/yelpcamp-refactor-ui#/)
+[Pricing refactor slides](http://webdev.slides.com/nax3t/yelpcamp-refactor-pricing#/)
